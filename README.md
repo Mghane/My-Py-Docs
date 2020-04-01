@@ -4,3 +4,4 @@ Includes:
 * Numpy
 * Pandas
 * Matplotlib
+* Seaborn
