@@ -5,3 +5,4 @@ Includes:
 * Pandas
 * Matplotlib
 * Seaborn
+* Plotly and Cufflinks
