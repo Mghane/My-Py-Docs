@@ -5,3 +5,5 @@
 4. Naive Bayes
 5. Decision Tree
 6. Ensamble Mehthods (AdaBoost, Bagging, Gradient Boost, Random Forest)
+7. Grid Search for hyperparameter optimization
+8. Mini-project
