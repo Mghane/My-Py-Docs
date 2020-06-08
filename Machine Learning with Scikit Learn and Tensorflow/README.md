@@ -1,5 +1,6 @@
 ## Machine Learning (Scikit Learn and Tensorflow)
 Documents Includes:
+* Gradient Descent Algorithm
 * Supervised Learning
   * Regression (Linear & Logestic)
   * K Nearest neighbors
