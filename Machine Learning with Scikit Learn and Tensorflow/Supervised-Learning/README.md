@@ -6,4 +6,4 @@
 5. Decision Tree
 6. Ensamble Mehthods (AdaBoost, Bagging, Gradient Boost, Random Forest)
 7. Grid Search for hyperparameter optimization
-8. Mini-project
+8. Mini-project (Diabetes Case Study)
