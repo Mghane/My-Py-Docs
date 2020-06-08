@@ -6,4 +6,4 @@ Documents Includes:
   * Desicion Trees and Random Forests
 * Unsupervised Learning
   * K mean Clustering
-* Deep Learning with Tensorflow
+* Deep Learning with TensorFlow & Keras
