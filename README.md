@@ -8,5 +8,7 @@ MY-Py_Docs contains notes and tips collected from different platforms and resour
   * Seaborn
   * Plotly and Cufflinks
  * Machine Learning with Scikit Learn
+  * Supervised
+  * Unsupervised
  * Deep Learning with TensorFlow
  * Deep Learning with Pytorch
